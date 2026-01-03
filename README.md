@@ -24,15 +24,17 @@
 ---
 
 ### 📊 GitHub Stats
-<!-- GitHub Stats -->
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AdityaLuhaniwal&show_icons=true&theme=tokyonight" />
+</p>
 
-<!-- Streak Stats -->
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=AdityaLuhaniwal&theme=tokyonight" />
+</p>
 
-<!-- Top Languages -->
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaLuhaniwal&layout=compact&theme=tokyonight" />
-
+</p>
 
 ---
 
