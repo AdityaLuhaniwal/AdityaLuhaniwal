@@ -1,12 +1,52 @@
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h3 align="center">Java Backend Developer</h3>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaLuhaniwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdityaLuhaniwal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaLuhaniwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdityaLuhaniwal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdityaLuhaniwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+- 💻 Java Backend Developer with strong fundamentals
+- 🌱 Currently working with **Spring Boot & Hibernate**
+- 🧩 Passionate about building **scalable backend systems**
+- 📚 Focused on clean code & best practices
+- 🇮🇳 Based in India
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,idea" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaLuhaniwal&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaLuhaniwal&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaLuhaniwal&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/">LinkedIn</a> |
+  <a href="https://github.com/AdityaLuhaniwal">GitHub</a>
+</p>
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories.*
